@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="0ae31f36-33be-4540-848b-22094db66064" name="ap_php" url="http://localhost/php">
-        <fileTransfer port="0" mountedRoot="C:\wamp64\www\php" accessType="MOUNT" />
+        <fileTransfer port="0" mountedRoot="C:\wamp64\www\php_noel_fred" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
